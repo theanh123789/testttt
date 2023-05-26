@@ -1,0 +1,65 @@
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frm_sanpham.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmMain.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frm_dangnhap.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.GenerateResource.Cache
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1.mdf
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1_log.ldf
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe.config
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.pdb
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.Properties.Resources.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.exe
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.pdb
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.TrangChuUC.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1.mdf
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1_log.ldf
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe.config
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.pdb
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmDangNhap.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmMain.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.HoaDonUC.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.Properties.Resources.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.SanPhamUC.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.NhanVienUC.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.TrangChuUC.resources
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.GenerateResource.Cache
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.exe
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.pdb
+H:\PHATTRIENUNGDUNGTRENWINDOWS\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csprojResolveAssemblyReference.cache
+D:\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1.mdf
+D:\SHOPQUANAO\SHOPQUANAO\bin\Debug\Database1_log.ldf
+D:\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe.config
+D:\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe
+D:\SHOPQUANAO\SHOPQUANAO\bin\Debug\SHOPQUANAO.pdb
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.AssemblyReference.cache
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.SuggestedBindingRedirects.cache
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmDangNhap.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmMain.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.HoaDonUC.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.Properties.Resources.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.SanPhamUC.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.NhanVienUC.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.TrangChuUC.resources
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.GenerateResource.cache
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.CoreCompileInputs.cache
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.exe
+D:\SHOPQUANAO\SHOPQUANAO\obj\Debug\SHOPQUANAO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\bin\Debug\Database1.mdf
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\bin\Debug\Database1_log.ldf
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\bin\Debug\SHOPQUANAO.exe
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\bin\Debug\SHOPQUANAO.pdb
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmDangNhap.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.frmMain.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.HoaDonUC.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.SanPhamUC.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.NhanVienUC.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.TrangChuUC.resources
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.exe
+C:\Users\ASUS\OneDrive\Máy tính\DoAn\SHOPQUANAO\obj\Debug\SHOPQUANAO.pdb

@@ -1,0 +1,5 @@
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\bin\Release\SHOPQUANAO.exe.config
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Release\SHOPQUANAO.frm_sanpham.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Release\SHOPQUANAO.frmMain.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Release\SHOPQUANAO.frm_dangnhap.resources
+H:\PhatTrienUngDungWindows\SHOPQUANAO\SHOPQUANAO\obj\Release\SHOPQUANAO.csproj.GenerateResource.Cache
